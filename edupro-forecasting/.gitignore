@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/processed/
+data/*.xlsx
+data/*.csv
+models/
+reports/*.csv
